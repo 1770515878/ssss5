@@ -93,6 +93,7 @@
                 android:layout_height="wrap_content"
                 android:text="取消"
                 android:textSize="20dp"
+
                 android:textColor="#ffffff"
                 android:background="@drawable/button_rounded_background"
                 android:onClick="onClick"/>
